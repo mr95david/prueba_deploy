@@ -93,6 +93,6 @@ if __name__ == "__main__":
     # threading.join()
     # Funcion que ejecuta la aplicacion de flask
     app.run(
-        port = fg.PORT_NUMBER,
-        debug = fg.VAL_DEBUG
+        # port = fg.PORT_NUMBER,
+        # debug = fg.VAL_DEBUG
     )
